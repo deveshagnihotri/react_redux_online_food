@@ -6,6 +6,8 @@ import { addCartItem } from '../../../actions/CartAction';
 import Chip from '@material-ui/core/Chip';
 import Header from '../../common/header';
 import FormControl from '../../screens/landingPage/FormControl';
+let vegIcon = "https://img.icons8.com/color/48/000000/non-vegetarian-food-symbol.png";
+let starIcon = "https://img.icons8.com/flat_round/50/000000/star--v3.png";
 
 function ItemDetail(props) {
   const [isCartItem, setCartItem] = useState(false);
@@ -61,14 +63,14 @@ function ItemDetail(props) {
                   <div style={styles.itemData}>
                     <div style={styles.itemName}>
                       <img
-                        src="https://img.icons8.com/color/48/000000/non-vegetarian-food-symbol.png"
+                        src={vegIcon}
                         height={15}
                       ></img>
                       <b>{item.name}</b>
                     </div>
                     <div style={styles.itemCheck}>
                       <img
-                        src="https://img.icons8.com/flat_round/50/000000/star--v3.png"
+                        src={starIcon}
                         height={15}
                       ></img>
                       <div style={styles.itemStarRating}>
