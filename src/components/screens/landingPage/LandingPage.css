@@ -1,0 +1,82 @@
+.carasoul_Conatiner {
+  padding: '5px';
+  background-color: 'white';
+  contain: 'content';
+  display: 'block';
+  box-sizing: 'inherit';
+  max-width: '100%';
+}
+
+.carasoul_Conatiner_main {
+  position: 'relative';
+  height: '200px';
+  margin: 'auto';
+  display: 'flex';
+  align-items: 'center';
+  contain: 'layout';
+  box-sizing: 'inherit';
+}
+
+.carasoul_Conatiner_item {
+  position: 'relative';
+  width: '100%';
+  display: 'flex';
+  box-sizing: 'inherit';
+  flex: 1;
+  flex-direction: 'row';
+  overflow: 'auto';
+}
+.MenuContainer {
+  align-items: center;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  margin-left: 10px;
+}
+.MenuItems {
+  width: 120px;
+  margin: 8px;
+  line-height: 30px;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1.2px;
+  border-color: #d3d3d3;
+  font-size: 14px;
+}
+
+.Second_Container {
+  align-items: center;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  z-index: 5;
+
+  /* margin-left: 35px; */
+}
+
+.card_Container {
+  width: 142px;
+  height: 50px;
+  margin: 8px;
+  line-height: 30px;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1.2px;
+  border-color: #d3d3d3;
+  font-size: 14px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  z-index: 5;
+  box-shadow: 0.5px 0.5px;
+}
+
+.card_Container_Item {
+  flex-direction: 'row';
+  display: 'flex';
+  box-sizing: 'inherit';
+}
+
+.card_Container_Item:hover {
+  border-color: cornflowerblue;
+}

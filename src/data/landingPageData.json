@@ -1,0 +1,71 @@
+[
+  {
+    "today_special": [
+      {
+        "image": "http://maneshcatering.com/wp-content/uploads/2017/12/veg-kofta.jpg",
+        "name": "Kofta khurma",
+        "foodType": "0"
+      },
+      {
+        "image": "https://cdn1.foodviva.com/static-content/food-images/snacks-recipes/veg-momos/veg-momos.jpg",
+        "name": "Chinese Momo",
+        "foodType": "1"
+      },
+      {
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/11/shahi-paneer-recipe.jpg",
+        "name": "Kadai paneer",
+        "foodType": "1"
+      },
+      {
+        "image": "http://maneshcatering.com/wp-content/uploads/2017/12/veg-kofta.jpg",
+        "name": "Indian Postery",
+        "foodType": "0"
+      },
+      {
+        "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg",
+        "name": "cakes",
+        "foodType": "1"
+      },
+      {
+        "image": "https://img.taste.com.au/EU9D0DbT/w720-h480-cfill-q80/taste/2016/11/ripper-thai-beef-noodle-salad-62642-1.jpeg",
+        "name": "Salads",
+        "foodType": "1"
+      },
+      {
+        "image": "https://img.taste.com.au/EU9D0DbT/w720-h480-cfill-q80/taste/2016/11/ripper-thai-beef-noodle-salad-62642-1.jpeg",
+        "name": "Salads",
+        "foodType": "1"
+      },
+      {
+        "image": "https://img.taste.com.au/EU9D0DbT/w720-h480-cfill-q80/taste/2016/11/ripper-thai-beef-noodle-salad-62642-1.jpeg",
+        "name": "Salads",
+        "foodType": "1"
+      },
+      {
+        "image": "https://img.taste.com.au/EU9D0DbT/w720-h480-cfill-q80/taste/2016/11/ripper-thai-beef-noodle-salad-62642-1.jpeg",
+        "name": "Salads",
+        "foodType": "1"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "image": "https://gbc-cdn-public-media.azureedge.net/img45644.jpg",
+        "name": "Starter"
+      },
+      {
+        "image": "https://image.shutterstock.com/image-photo/macro-shot-grilled-chicken-fillet-260nw-1495898873.jpg",
+        "name": "Main Course"
+      },
+      {
+        "image": "https://img.taste.com.au/4sJKskna/w506-h253-cfill/taste/2016/11/top-50-desserts-117787-1.jpeg",
+        "name": "Deserts"
+      },
+      {
+        "image": "https://images.pexels.com/photos/1571849/pexels-photo-1571849.jpeg?cs=srgb&dl=beverages-carbonated-drink-cold-drink-1571849.jpg&fm=jpg",
+        "name": "Beverages"
+      }
+    ]
+  }
+]
